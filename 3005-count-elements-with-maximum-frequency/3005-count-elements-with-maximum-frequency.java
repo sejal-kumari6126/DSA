@@ -1,7 +1,6 @@
 class Solution {
     public int maxFrequencyElements(int[] nums) {
         int hash[]=new int [101];
-        int count=0,f=0;;
         for (int i=0;i<nums.length; i++){
                 hash[nums[i]]++;
         }
