@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sejal-kumari6126/DSA/tree/master/0136-single-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sejal-kumari6126/DSA/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
