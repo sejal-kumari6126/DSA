@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sejal-kumari6126/DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/sejal-kumari6126/DSA/tree/master/0136-single-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sejal-kumari6126/DSA/tree/master/0001-two-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
