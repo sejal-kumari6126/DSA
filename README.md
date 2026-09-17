@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejal-kumari6126/DSA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/sejal-kumari6126/DSA/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/sejal-kumari6126/DSA/tree/master/0136-single-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sejal-kumari6126/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sejal-kumari6126/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
