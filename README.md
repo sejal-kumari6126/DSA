@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sejal-kumari6126/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sejal-kumari6126/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sejal-kumari6126/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sejal-kumari6126/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sejal-kumari6126/DSA/tree/master/0136-single-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sejal-kumari6126/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejal-kumari6126/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sejal-kumari6126/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sejal-kumari6126/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sejal-kumari6126/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
