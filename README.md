@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejal-kumari6126/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sejal-kumari6126/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sejal-kumari6126/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sejal-kumari6126/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sejal-kumari6126/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sejal-kumari6126/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sejal-kumari6126/DSA/tree/master/0048-rotate-image) |
 ## Prefix Sum
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sejal-kumari6126/DSA/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/sejal-kumari6126/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
