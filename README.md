@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sejal-kumari6126/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sejal-kumari6126/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/sejal-kumari6126/DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/sejal-kumari6126/DSA/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sejal-kumari6126/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sejal-kumari6126/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/sejal-kumari6126/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/sejal-kumari6126/DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/sejal-kumari6126/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sejal-kumari6126/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sejal-kumari6126/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
