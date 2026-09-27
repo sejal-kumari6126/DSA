@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sejal-kumari6126/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sejal-kumari6126/DSA/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/sejal-kumari6126/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sejal-kumari6126/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sejal-kumari6126/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sejal-kumari6126/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/sejal-kumari6126/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sejal-kumari6126/DSA/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sejal-kumari6126/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
