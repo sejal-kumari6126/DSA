@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sejal-kumari6126/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sejal-kumari6126/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sejal-kumari6126/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/sejal-kumari6126/DSA/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/sejal-kumari6126/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sejal-kumari6126/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sejal-kumari6126/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sejal-kumari6126/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sejal-kumari6126/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/sejal-kumari6126/DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/sejal-kumari6126/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sejal-kumari6126/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sejal-kumari6126/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
