@@ -6,7 +6,7 @@ class Solution {
     }
     public void generate(String s, int open , int closed, int n , List<String> ans){
         //Base case
-        if(s.length()==2*n){
+        if(open==n&&closed==n){
         ans.add(s);
         return ;
         }
