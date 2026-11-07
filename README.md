@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sejal-kumari6126/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sejal-kumari6126/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sejal-kumari6126/DSA/tree/master/0050-powx-n) |
+| [0263-ugly-number](https://github.com/sejal-kumari6126/DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/sejal-kumari6126/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sejal-kumari6126/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sejal-kumari6126/DSA/tree/master/1922-count-good-numbers) |
